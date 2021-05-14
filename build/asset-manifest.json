@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8c84b41a.chunk.css",
+    "main.js": "/static/js/main.7a5331ec.chunk.js",
+    "main.js.map": "/static/js/main.7a5331ec.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.05a21918.js",
+    "runtime-main.js.map": "/static/js/runtime-main.05a21918.js.map",
+    "static/js/2.16e05b73.chunk.js": "/static/js/2.16e05b73.chunk.js",
+    "static/js/2.16e05b73.chunk.js.map": "/static/js/2.16e05b73.chunk.js.map",
+    "static/js/3.b805131a.chunk.js": "/static/js/3.b805131a.chunk.js",
+    "static/js/3.b805131a.chunk.js.map": "/static/js/3.b805131a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8c84b41a.chunk.css.map": "/static/css/main.8c84b41a.chunk.css.map",
+    "static/js/2.16e05b73.chunk.js.LICENSE.txt": "/static/js/2.16e05b73.chunk.js.LICENSE.txt",
+    "static/media/earth.8a0f75b7.jpg": "/static/media/earth.8a0f75b7.jpg",
+    "static/media/fragment.4945f753.glsl": "/static/media/fragment.4945f753.glsl",
+    "static/media/vertex.a021ef4f.glsl": "/static/media/vertex.a021ef4f.glsl"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05a21918.js",
+    "static/js/2.16e05b73.chunk.js",
+    "static/css/main.8c84b41a.chunk.css",
+    "static/js/main.7a5331ec.chunk.js"
+  ]
+}
