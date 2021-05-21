@@ -1,3 +1,6 @@
+body{
+    margin: 0;
+}
 .three-container{
     position: fixed;
     top:0;
